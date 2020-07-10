@@ -162,6 +162,7 @@ p.foodDescription {
   clear: both;
   font-family: 'Comic Neue', cursive;
   font-size: 12pt;
+  padding: 10px;
 }
 
 #chicken{
